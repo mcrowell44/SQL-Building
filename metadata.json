@@ -1,0 +1,6 @@
+{
+  "name": "SQL Query Builder",
+  "description": "A visual SQL query builder that allows users to parse SQL schemas from uploaded code using AI, execute and build visual queries, and search Drive files and compose/send emails via Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
